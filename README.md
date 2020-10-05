@@ -10,14 +10,19 @@
 ###### This is a practices
 
 
+
 #EMPHASIS 字體變化
 
 *This text will be italic*
+
 _This text will be italic_
 
 **This text will be italic**
+
 __This text will be italic__
+
 *You **can** combine them*
+
 _You __can__ combine them_
 
 
@@ -52,6 +57,9 @@ _You __can__ combine them_
 As Kanye West said:
 > I am number 1
 > YES.
+
+#Backslash escapes
+\* I am a good gril \*
 
 
 
