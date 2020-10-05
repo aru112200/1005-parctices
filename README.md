@@ -40,5 +40,19 @@ _You __can__ combine them_
 #IMAGES
 
 ![YOUTUBE](\image\下載.png)
-![YOUTUBE](下載.png)
+![YOUTUBE](https://raw.githubusercontent.com/aru112200/1005-parctices/main/%E4%B8%8B%E8%BC%89.png)
+
+#LINKS
+
+[YOUTUBE 開箱美國超市](https://www.youtube.com/watch?v=yE78aR5K5FM)
+
+
+＃Blockquotes
+
+As Kanye West said:
+> I am number 1
+> YES.
+
+
+
 
