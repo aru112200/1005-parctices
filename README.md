@@ -60,7 +60,25 @@ As Kanye West said:
 
 #Backslash escapes
 \* I am a good gril \*
+
 \# I am a good gril \#
+
 \{ I am a good gril \}
 
+
+#Task lists
+
+_ [] 請加入我的社團
+_ [x] 請加入我的社團
+* add 1
+* add 2
+   * add 2a
+   * add 2b
+   
+   
+#Fenced code blocks
+```python
+print("Hello world")
+```
+   
 
